@@ -1,1 +1,1 @@
-# git_practice
+Repository to get used to git.
